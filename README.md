@@ -6,7 +6,7 @@
   
 - 💞️ I’m looking to collaborate on innovative web projects
   
-- 📫 How to reach me
+  📫 How to reach me
 - Email: minhaj99466@gmail.com
 - LinkedIn: linkedin.com/in/minhaj-mm
 - GitHub: github.com/Minhaj99466
