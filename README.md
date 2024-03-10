@@ -2,7 +2,7 @@
 - 
 - 👀 I’m interested in Full Stack Development
 - 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning MERN Stack 
 - 
 - 💞️ I’m looking to collaborate on innovative web projects
 - 
