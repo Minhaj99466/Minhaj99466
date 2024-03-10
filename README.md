@@ -11,7 +11,6 @@
 - LinkedIn: linkedin.com/in/minhaj-mm
 - GitHub: github.com/Minhaj99466
   
-- 😄 Pronouns: He/Him
 
 
 <!---
