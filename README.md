@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minhaj</h1>
 <h3 align="center">A passionate Full Stack Developer from Kerala,India</h3>
 
-- 🔭 I’m currently working on **Electron + React js + BillingSoftware**
+- 🔭 I’m currently working on **Electron + React js +**
 
 - 🌱 I’m currently learning **Electron js.**
 
