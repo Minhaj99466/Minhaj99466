@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Electron js.**
 
-- 👨‍💻 All of my projects are available at [https://www.minhaj.tech/](https://www.minhaj.tech/)
-
 - 💬 Ask me about **react js, node, mongodb, figma, ne.**
 
 - 📫 How to reach me **minhaj99466@gmail.com**
