@@ -13,6 +13,3 @@
 
 - 📄 Know about my experiences [https://www.minhaj.tech/](https://www.minhaj.tech/)
 
-<p></p>
-<h3 align="left">Connect with me:</h3>
-
